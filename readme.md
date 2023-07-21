@@ -8,7 +8,7 @@
    
    ![Download-Fenster](img/tapermonkey-marker.png)
 
-3. Afterwards click this link: https://github.com/TheFel0x/place-overlay/blob/main/src/scripts/place-overlay.user.js. Tampermonkey should recognize the script.
+3. Afterwards click this link: https://github.com/TheFel0x/place-overlay/raw/main/src/scripts/place-overlay.user.js. Tampermonkey should recognize the script.
    
    ![Addon Tampermonkey](img/script-uebersicht.png)
    
