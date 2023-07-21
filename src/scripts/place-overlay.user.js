@@ -22,7 +22,7 @@ if (window.top !== window.self) {
 }
 
 function updateImage() {
-    overlayImage.src = "https://raw.githubusercontent.com/TheFel0x/place-overlay/main/overlay/overlay_target.png"
+    overlayImage.src = "https://github.com/TheFel0x/place-overlay/blob/main/src/scripts/place-overlay.user.js"
 }
 
-setInterval(function () {overlayImage.src = "https://raw.githubusercontent.com/TheFel0x/place-overlay/main/overlay/overlay_target.png"}, 30000);
+setInterval(function () {overlayImage.src = "https://github.com/TheFel0x/place-overlay/blob/main/src/scripts/place-overlay.user.js"}, 30000);
